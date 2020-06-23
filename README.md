@@ -4,8 +4,6 @@
   Desafio 04: Conceitos do React Native
 </h3>
 
-<blockquote align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
-
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
 
@@ -21,7 +19,7 @@
 
 Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no React Native!
 
-Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o **backend[https://github.com/lucas-davi/gostack-conceitos-nodejs]** utilizando o Node.js, e no último desafio em ReactJS.
+Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o **[backend][(https://github.com/lucas-davi/gostack-conceitos-nodejs)** utilizando o Node.js, e no último desafio em ReactJS.
 
 ### Funcionalidades da aplicação
 
